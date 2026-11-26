@@ -18,7 +18,11 @@
     "id": "minecraft:netherite_sword",
     "count": 1,
     "components": {
-      "minecraft:custom_name": "{\"text\":\"Astraea\",\"color\":\"light_purple\",\"italic\":false}",
+      "minecraft:custom_name": {
+        "text": "Astraea",
+        "color": "light_purple",
+        "italic": false
+      },
       "minecraft:custom_data": {
         "hypixel_item": "astraea"
       },
