@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "fff",
+    "fdf",
+    "fff"
+  ],
+  "key": {
+    "f": {
+      "items": "minecraft:dragon_breath"
+    },
+    "d": {
+      "items": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "id": "minecraft:netherite_sword",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Aspect of the Dragon\",\"color\":\"light_purple\",\"italic\":false}",
+      "minecraft:custom_data": {
+        "hypixel_item": "aotd"
+      },
+      "minecraft:enchantment_glint_override": true
+    }
+  }
+}
